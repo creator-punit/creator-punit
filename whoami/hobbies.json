@@ -1,0 +1,71 @@
+[
+  {
+    "type": "hobbies",
+    "name": "Music",
+    "children": [
+      "Mohommed Rafi",
+      "Eminem",
+      "Arijit Singh",
+      "Baby Sean",
+      "Anirudh",
+      "Asha Bhosle",
+      "Diljit Dosanjh",
+      "... and so much more"
+    ]
+  },
+  {
+    "type": "hobby",
+    "name": "Movies",
+    "children": [
+      "Hacksaw Ridge",
+      "James Bond",
+      "Cast Away",
+      "IP Man",
+      "Silent Voice / Spirited Away / Garden of Words / Stars Align...",
+      "The call",
+      "Bhavesh Joshi Superhero",
+      "Shaolin Soccer / Kung Fu Hustle",
+      "... and so much more"
+    ]
+  },
+  {
+    "type": "hobby",
+    "name": "Series",
+    "children": [
+      "Dark",
+      "Brooklyn Nine Nine",
+      "Mirzapur",
+      "Special Ops",
+      "Bhaukal",
+      "... and so much more"
+    ]
+  },
+  {
+    "type": "hobby",
+    "name": "Animes",
+    "children": [
+      "Naruto",
+      "Haikyuu!",
+      "Hunter x Hunter",
+      "Great Teacher Onizuka!",
+      "Diamond No Ace",
+      "Vinland Saga",
+      "Classroom Of The Elite",
+      "... and so much more"
+    ]
+  },
+  {
+    "type": "hobby",
+    "name": "K-Drama",
+    "children": [
+      "Hometown Cha Cha CHa",
+      "All of Us are Dead",
+      "K 2",
+      "Why Her",
+      "Its okay to Not be Okay",
+      "Business Proposal",
+      "Strongest Delivery Man",
+      "... and so much more"
+    ]
+  }
+]

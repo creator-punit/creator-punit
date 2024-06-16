@@ -1,0 +1,27 @@
+[
+  {
+    "type": "skills",
+    "name": "Languages",
+    "children": ["javascript", "Java"]
+  },
+  {
+    "type": "skills",
+    "name": "JS Frameworks",
+    "children": ["React.js"]
+  },
+  {
+    "type": "skills",
+    "name": "Database",
+    "children": ["Postgres", "MongoDB"]
+  },
+  {
+    "type": "skills",
+    "name": "ORM / ODM / Query Builder",
+    "children": ["Mongoose", "Sequelize", "Knex"]
+  },
+  {
+    "type": "skills",
+    "name": "APIs",
+    "children": ["REST"]
+  }
+]
